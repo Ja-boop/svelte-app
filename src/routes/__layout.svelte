@@ -1,7 +1,7 @@
 <nav>
-	<a href="/">Home</a>
-	<a href="/about">About</a>
-	<a href="/settings">Settings</a>
+	<button>Connect with Albedo</button>
+	<button>Connect with xBull</button>
+	<button>Connect with Freighter</button>
 </nav>
 
 <slot />

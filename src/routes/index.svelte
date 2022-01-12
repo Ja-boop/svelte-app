@@ -1,7 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
+<h1>Welcome to Simple Signer</h1>
 
 <style>
 	:global(body) {
-		background-color: #373433;
 	}
 </style>
